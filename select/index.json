@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "modify Youth",
+  "base_artist": "kurayamisaka",
+  "createdAt": "2026-02-26T01:59:12.333053Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "modify Youth",
+      "artist": "kurayamisaka",
+      "has_synced": false,
+      "path": "select/01_modify_Youth_kurayamisaka.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "modify Youth",
+      "artist": "kurayamisaka",
+      "has_synced": false,
+      "path": "select/pl_01_modify_Youth_kurayamisaka.txt"
+    }
+  ]
+}
